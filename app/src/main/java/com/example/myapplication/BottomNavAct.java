@@ -25,6 +25,9 @@ public class BottomNavAct extends AppCompatActivity {
                 case R.id.navigation_notifications:
                     mTextMessage.setText(R.string.title_notifications);
                     return true;
+                case R.id.navigation_history:
+                    mTextMessage.setText("History");
+                    return true;
             }
             return false;
         }

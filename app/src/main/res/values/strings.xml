@@ -3,4 +3,8 @@
     <string name="facebookAccountKitId">358063728244998</string>
     <string name="facebookAccountKitToken">fd6fa3bf92565c7adbc67abfee789db1</string>
     <string name="ak_facebookAccountKitProtocol">akfd6fa3bf92565c7adbc67abfee789db1</string>
+    <string name="title_activity_bottom_nav">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>

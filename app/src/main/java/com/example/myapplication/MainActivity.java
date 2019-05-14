@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this, ""+res.getError().getErrorType().getMessage(), Toast.LENGTH_SHORT).show();
                 return;
             }else {
-                startActivity(new Intent(this, Dashboard.class));
+                startActivity(new Intent(this, BottomNavAct.class));
             }
         }
     }
